@@ -1,0 +1,12 @@
+{
+  "name": "ai-learning-assistant",
+  "version": "1.0.0",
+  "description": "AI-Powered Personalized Learning Assistant",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
